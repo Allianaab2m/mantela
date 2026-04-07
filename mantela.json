@@ -81,6 +81,12 @@
       "mantela": "https://unstable.kusaremkn.com/.well-known/mantela.json",
       "name": "MikaNeTEL",
       "prefix": "510"
+    },
+    {
+      "identifier": "498a3211-0f85-42a7-b2c0-44fb7095bd67",
+      "mantela": "https://zin3.cc/.well-known/mantela.json",
+      "name": "zin3",
+      "prefix": "333"
     }
   ],
   "version": "0.1.x"
