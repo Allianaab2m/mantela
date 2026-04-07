@@ -43,6 +43,18 @@
       "model": "VOICEVOX - Meimei Himari",
       "name": "Test Dial",
       "type": "information"
+    },
+    {
+      "extension": "035",
+      "identifier": "123A19PW",
+      "model": "",
+      "name": "ab2main",
+      "type": "main",
+      "transferTo": [
+        "B0RCN4SE",
+        "8URG3F47",
+        "7SMBGGAR"
+      ]
     }
   ],
   "providers": [
