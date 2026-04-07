@@ -57,6 +57,18 @@
       "mantela": "https://nemnet-lab-pbx.github.io/mantela/mantela_sapporo.json",
       "name": "みゅーと札幌局",
       "prefix": "238"
+    },
+    {
+      "identifier": "5752ca4c-c828-4946-a8f3-7f8272206f2d",
+      "mantela": "https://da-tenshi.github.io/mantela.json",
+      "name": "SHINANOTEL",
+      "prefix": "661"
+    },
+    {
+      "identifier": "93b2d256-39c1-4053-bda1-c0643dd40690",
+      "mantela": "https://unstable.kusaremkn.com/.well-known/mantela.json",
+      "name": "MikaNeTEL",
+      "prefix": "510"
     }
   ],
   "version": "0.1.x"
