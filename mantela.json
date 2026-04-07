@@ -1,0 +1,63 @@
+{
+  "$schema": "https://tkytel.github.io/mantela/0.1.x/mantela.schema.json",
+  "aboutMe": {
+    "identifier": "402b0d3f-d499-4bf7-8ef0-bd25c1edd69a",
+    "name": "ab2m-ありあな局",
+    "preferredPrefix": [
+      "462"
+    ],
+    "unavailable": false,
+    "geolocationCoordinates": {
+      "accuracy": 0,
+      "altitude": 0,
+      "altitudeAccuracy": 0,
+      "latitude": 0,
+      "longitude": 0
+    }
+  },
+  "extensions": [
+    {
+      "extension": "016",
+      "identifier": "7SMBGGAR",
+      "model": "\"wriggle\" - Apple iPhone 16",
+      "name": "iPhone 16",
+      "type": "smartphone"
+    },
+    {
+      "extension": "046",
+      "identifier": "8URG3F47",
+      "model": "\"youmu\" - Windows 11, Linphone",
+      "name": "Desktop PC",
+      "type": "other"
+    },
+    {
+      "extension": "133",
+      "identifier": "B0RCN4SE",
+      "model": "\"marisa\" - Apple MacBook Air M3 13\", Linphone",
+      "name": "MacBook Air M3",
+      "type": "other"
+    },
+    {
+      "extension": "1234",
+      "identifier": "BPXYF5S6",
+      "model": "VOICEVOX - Meimei Himari",
+      "name": "Test Dial",
+      "type": "information"
+    }
+  ],
+  "providers": [
+    {
+      "identifier": "8fa08edd-26e4-4762-99b1-109607e0fc22",
+      "mantela": "https://nemnet-lab-pbx.github.io/mantela/mantela.json",
+      "name": "みゅーと東京局",
+      "prefix": "237"
+    },
+    {
+      "identifier": "b45b51e4-307a-430e-8503-fe4f5b9672e8",
+      "mantela": "https://nemnet-lab-pbx.github.io/mantela/mantela_sapporo.json",
+      "name": "みゅーと札幌局",
+      "prefix": "238"
+    }
+  ],
+  "version": "0.1.x"
+}
