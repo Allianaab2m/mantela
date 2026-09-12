@@ -1,19 +1,19 @@
 {
   "$schema": "https://tkytel.github.io/mantela/0.1.x/mantela.schema.json",
   "aboutMe": {
-    "identifier": "402b0d3f-d499-4bf7-8ef0-bd25c1edd69a",
-    "name": "ab2m-ありあな局",
-    "preferredPrefix": [
-      "462"
-    ],
-    "unavailable": false,
     "geolocationCoordinates": {
       "accuracy": 0,
       "altitude": 0,
       "altitudeAccuracy": 0,
       "latitude": 0,
       "longitude": 0
-    }
+    },
+    "identifier": "402b0d3f-d499-4bf7-8ef0-bd25c1edd69a",
+    "name": "ab2m-ありあな局",
+    "preferredPrefix": [
+      "462"
+    ],
+    "unavailable": false
   },
   "extensions": [
     {
@@ -49,12 +49,19 @@
       "identifier": "123A19PW",
       "model": "",
       "name": "ab2main",
-      "type": "main",
       "transferTo": [
         "B0RCN4SE",
         "8URG3F47",
         "7SMBGGAR"
-      ]
+      ],
+      "type": "main"
+    },
+    {
+      "extension": "017",
+      "identifier": "6LDV4TVH",
+      "model": "\"cirno\" - Google Pixel 7, Linphone",
+      "name": "Pixel 7",
+      "type": "phone"
     }
   ],
   "providers": [
@@ -87,6 +94,12 @@
       "mantela": "https://zin3.cc/.well-known/mantela.json",
       "name": "zin3",
       "prefix": "333"
+    },
+    {
+      "identifier": "8b741e2b-45f9-4187-9da1-05d866b79a09",
+      "mantela": "https://kimkim0106.net/.well-known/mantela.json",
+      "name": "kimkim0106",
+      "prefix": "106"
     }
   ],
   "version": "0.1.x"
