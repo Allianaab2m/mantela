@@ -62,6 +62,13 @@
       "model": "\"cirno\" - Google Pixel 7, Linphone",
       "name": "Pixel 7",
       "type": "phone"
+    },
+    {
+      "extension": "406",
+      "identifier": "IXK0AL9G",
+      "model": "Panasonic VE-GD23-W, YAMAHA NVR500 TEL1 Port",
+      "name": "VE-GD23-W",
+      "type": "pushphone"
     }
   ],
   "providers": [
