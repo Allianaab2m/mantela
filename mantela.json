@@ -8,7 +8,7 @@
       "latitude": 0,
       "longitude": 0
     },
-    "identifier": "402b0d3f-d499-4bf7-8ef0-bd25c1edd69a",
+    "identifier": "e22b18c4-d760-4ff2-ade7-a374200a1c1e",
     "name": "ab2m-ありあな局",
     "preferredPrefix": [
       "462"
@@ -17,10 +17,10 @@
   },
   "extensions": [
     {
-      "extension": "016",
-      "identifier": "7SMBGGAR",
-      "model": "\"wriggle\" - Apple iPhone 16",
-      "name": "iPhone 16",
+      "extension": "18",
+      "identifier": "ZPED0GF6",
+      "model": "\"letty\" - Apple iPhone 18 Pro",
+      "name": "iPhone 18 Pro",
       "type": "smartphone"
     },
     {
@@ -58,14 +58,7 @@
       "type": "main"
     },
     {
-      "extension": "017",
-      "identifier": "6LDV4TVH",
-      "model": "\"cirno\" - Google Pixel 7, Linphone",
-      "name": "Pixel 7",
-      "type": "phone"
-    },
-    {
-      "extension": "406",
+      "extension": "501",
       "identifier": "IXK0AL9G",
       "model": "Panasonic VE-GD23-W, YAMAHA NVR500 TEL1 Port",
       "name": "VE-GD23-W",
